@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Magic Mirror</string>
+    <string name="startMsg">You woke me…</string>
+
+    <string-array name="waking">
+        <item>You woke me…</item>
+        <item>Oh?</item>
+        <item>Who is it this time?</item>
+        <item>Yes?</item>
+        <item>Ah</item>
+        <item>I was having a nap…</item>
+    </string-array>
+
+    <string-array name="compliments">
+        <item>Your smile is contagious</item>
+        <item>You look great today</item>
+        <item>You\&#39;re a smart cookie</item>
+        <item>I bet you make babies smile</item>
+        <item>You have impeccable manners</item>
+        <item>I like your style</item>
+        <item>You have the best laugh</item>
+        <item>I appreciate you</item>
+        <item>You are the most perfect you there is</item>
+        <item>You are enough</item>
+        <item>You\&#39;re strong</item>
+        <item>Your perspective is refreshing</item>
+        <item>You\&#39;re an awesome friend</item>
+        <item>You light up the room</item>
+        <item>You deserve a hug right now</item>
+        <item>You should be proud of yourself</item>
+        <item>You\&#39;re more helpful than you realize</item>
+        <item>You have a great sense of humor</item>
+        <item>You\&#39;ve got all the right moves!</item>
+        <item>Is that your picture next to "charming" in the dictionary?</item>
+        <item>Your kindness is a balm to all who encounter it</item>
+        <item>On a scale from 1 to 10, you\&#39;re an 11</item>
+        <item>You are brave</item>
+        <item>You\&#39;re even more beautiful on the inside than you are on the outside</item>
+        <item>You have the courage of your convictions</item>
+        <item>Your eyes are breathtaking</item>
+        <item>You are making a difference</item>
+        <item>You\&#39;re like sunshine on a rainy day</item>
+        <item>You bring out the best in other people</item>
+        <item>Your ability to recall random factoids at just the right time is impressive</item>
+        <item>You\&#39;re a great listener</item>
+        <item>How is it that you always look great, even in sweatpants?</item>
+        <item>Everything would be better if more people were like you!</item>
+        <item>I bet you sweat glitter</item>
+        <item>You were cool way before hipsters were cool</item>
+        <item>That color is perfect on you</item>
+        <item>Hanging out with you is always a blast</item>
+        <item>You always know — and say — exactly what I need to hear when I need to hear it</item>
+        <item>You smell really good</item>
+        <item>Being around you makes everything better!</item>
+        <item>When you say, "I meant to do that," I totally believe you</item>
+        <item>When you\&#39;re not afraid to be yourself is when you\&#39;re most incredible</item>
+        <item>Colors seem brighter when you\&#39;re around</item>
+        <item>That thing you don\&#39;t like about yourself is what makes you so interesting</item>
+        <item>You\&#39;re wonderful</item>
+    </string-array>
+    <string-array name="insults">
+        <item>Two wrongs don\&#39;t make a right, take your parents as an example</item>
+        <item>It\&#39;s better to let someone think you are an Idiot than to open your mouth and prove it</item>
+        <item>If laughter is the best medicine, your face must be curing the world</item>
+        <item>If ignorance is bliss, you must be the happiest person on earth</item>
+        <item>Is your ass jealous of the amount of shit that just came out of your mouth?</item>
+        <item>The only way you\&#39;ll ever get laid is if you crawl up a chicken\&#39;s ass and wait</item>
+        <item>It looks like your face caught on fire and someone tried to put it out with a hammer</item>
+        <item>Shock me, say something intelligent</item>
+        <item>If you really want to know about mistakes, you should ask your parents</item>
+        <item>I\&#39;m jealous of all the people that haven\&#39;t met you!</item>
+        <item>I would love to insult you… but that would be beyond the level of your intelligence</item>
+        <item>So, a thought crossed your mind? Must have been a long and lonely journey</item>
+        <item>There\&#39;s only one problem with your face, I can see it</item>
+        <item>I don\&#39;t know what makes you so stupid, but it really works</item>
+        <item>Brains aren\&#39;t everything. In your case they\&#39;re nothing</item>
+        <item>Ordinarily people live and learn. You just live</item>
+        <item>You are living proof that manure can sprout legs and walk</item>
+        <item>Stupidity is not a crime so you are free to go</item>
+        <item>Shut up, you\&#39;ll never be the man your mother is</item>
+        <item>You\&#39;re so fat, you could sell shade</item>
+        <item>You\&#39;re about as useless as an asshole with tastebuds</item>
+        <item>You are not as bad as people say, you are much, much worse</item>
+        <item>Are your parents siblings?</item>
+        <item>You\&#39;re proof that the gods has a sense of humor</item>
+        <item>I\&#39;m not questioning your honor. I\&#39;m denying its existence</item>
+        <item>You are as useless as nipples on a breastplate</item>
+        <item>You must have a very low opinion of people if you think they are your equals</item>
+    </string-array>
+</resources>
+

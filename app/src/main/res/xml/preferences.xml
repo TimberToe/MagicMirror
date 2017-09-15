@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:key="compliments"
+        android:title="Compliments settings"
+        android:summary="" >
+        <intent android:targetPackage="com.example.malmrot.magicmirror"
+        android:targetClass="com.example.malmrot.magicmirror.ComplimentsSettingsActivity"/>
+    </Preference>
+
+    <Preference
+        android:key="insults"
+        android:title="Insults settings"
+        android:summary="" >
+        <intent android:targetPackage="com.example.malmrot.magicmirror"
+            android:targetClass="com.example.malmrot.magicmirror.InsultsSettingsActivity"/>
+    </Preference>
+
+    <EditTextPreference
+        android:key="startMsg"
+        android:title="Start message"
+        android:summary="The message when you wake up the mirror"
+        android:defaultValue="@string/startMsg"
+        />
+<!--
+    <CheckBoxPreference
+        android:key="isStep"
+        android:defaultValue="false"
+        android:summaryOff="Continuous"
+        android:summaryOn="Step by step"
+        android:disableDependentsState="true"/>
+-->
+    <EditTextPreference
+        android:defaultValue="5000"
+        android:key="fadeOutDelay"
+        android:title="The delay until next text shows"
+        android:inputType="number"
+        />
+    <EditTextPreference
+        android:defaultValue="5000"
+        android:key="fadeInDelay"
+        android:title="The delay until next text shows"
+        android:inputType="number"
+        />
+</PreferenceScreen>
